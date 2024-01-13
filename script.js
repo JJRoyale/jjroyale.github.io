@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const websites = [
         { name: "Old Reddit", url: "https://old.reddit.com" },
         { name: "Invidious (YouTube Proxy)", url: "https://yt.drgnz.club" },
-        { name: "Discross (Discord Client))", url: "http://discross.rc24.xyz/login.html" },
+        { name: "Discross (Discord Client)", url: "http://discross.rc24.xyz/login.html" },
     ];
 
     const websiteList = document.getElementById("website-list");
