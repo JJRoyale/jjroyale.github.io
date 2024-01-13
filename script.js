@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
     const websites = [
         { name: "Old Reddit", url: "https://old.reddit.com" },
-        { name: "Invidious (YouTube Proxy)", url: "https://invidious.snopyta.org" },
+        { name: "Invidious (YouTube Proxy)", url: "https://yt.drgnz.club" },
     ];
 
     const websiteList = document.getElementById("website-list");
