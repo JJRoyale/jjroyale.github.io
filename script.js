@@ -3,6 +3,8 @@ document.addEventListener("DOMContentLoaded", function () {
         { name: "Old Reddit", url: "https://old.reddit.com" },
         { name: "Invidious (YouTube Proxy)", url: "https://yt.drgnz.club" },
         { name: "Discross (Discord Client)", url: "http://discross.rc24.xyz/login.html" },
+        { name: "Google", url: "http://google.com" },
+        { name: "SwitchBru DNS", url: "http://dns.switchbru.com" },
     ];
 
     const websiteList = document.getElementById("website-list");
